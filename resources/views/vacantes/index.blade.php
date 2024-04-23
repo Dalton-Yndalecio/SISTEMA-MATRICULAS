@@ -128,5 +128,5 @@
       <!-- /.modal-dialog -->
   </div>
 
-
+{{--  nuevos cambios  --}}
 @include('layout.footer')

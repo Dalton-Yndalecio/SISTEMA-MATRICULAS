@@ -127,4 +127,7 @@
       </div>
       <!-- /.modal-dialog -->
   </div>
+
+{{--  HOLA CAMBIOS DESDE OTRA CARPTA  --}}
+  
 @include('layout.footer')

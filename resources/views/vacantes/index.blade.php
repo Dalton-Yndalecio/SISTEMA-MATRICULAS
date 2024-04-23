@@ -127,4 +127,7 @@
       </div>
       <!-- /.modal-dialog -->
   </div>
+
+   {{--  CAMBIOS AL BRACHES COLABORADOR01  --}}
+
 @include('layout.footer')

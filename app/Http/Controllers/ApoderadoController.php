@@ -32,7 +32,6 @@ class ApoderadoController extends Controller
                     ->make(true);
         }
 
-        //$ocupaciones = Ocupacion::all();
         return view('Apoderado.index');
     }
 
